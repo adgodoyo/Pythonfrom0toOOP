@@ -1,6 +1,6 @@
 # Python from Zero to Object-Oriented Programming
 
-[**English**](#english-) | [**Español**](#español-)
+[**English**](#english) | [**Español**](#español)
 
 ---
 
@@ -33,7 +33,7 @@ After completing this course, learners will have the foundation to specialize in
    Introduction to OOP principles and creating objects in Python.
 
 6. **Decorators**  
-   Enhancing functions with decorators.
+   Functions of Function
 
 7. **Importing Code**  
    Understanding modules and importing code in Python.
